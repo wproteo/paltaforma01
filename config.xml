@@ -12,7 +12,7 @@
       Test Juego creado con editor
   </description>
 
-  <author href="https://datos.in" email="info@datos.in">
+  <author href="https://datos.in" email="test@datos.in">
       William Perez
   </author>
 	<config-file platform="android" parent="/manifest" mode="merge">
